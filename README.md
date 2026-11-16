@@ -78,7 +78,7 @@ git clone https://github.com/Yesha0911/Ecommerce-Website-Automation-Testing.git
 ### 2. Open the project folder
 
 ```bash
-cd Project-1-Ecommerce-Automation
+cd Ecommerce-Website-Automation-Testing
 ```
 
 ### 3. Create a virtual environment
