@@ -72,7 +72,7 @@ Project-1-Ecommerce-Automation/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Yesha0911/Ecommerce-Website-Automation-Testing.git
 ```
 
 ### 2. Open the project folder
